@@ -21,5 +21,13 @@ This dataset contain some medical information of patients which tells whether th
 In conclusion, the implementation of a logistic regression-based machine learning model for predicting heart disease demonstrates promising results and potential for clinical application. Through meticulous data collection, feature engineering, and model optimization, we have developed a robust predictive tool capable of assessing the likelihood of heart disease in individuals.
 
 ### References
-[Scikit-learn Documentation](https://scikit-learn.org/0.21/documentation.html)
-[XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/#xgboost-documentation)
+[Scikit-learn](https://scikit-learn.org/0.21/documentation.html): developed by an open-source community, provides a comprehensive library for efficient implementation of machine learning algorithms
+
+[XGBoost](https://xgboost.readthedocs.io/en/stable/#xgboost-documentation):developed by Tianqi Chen and Carlos Guestrin, provides an optimized implementation of gradient boosting machines, known for its scalability and performance.
+
+### Contacts
+If any better changes can be done to the code, pls contact me!
+
+Email: mukundangopalachary@gmail.com
+
+Linkedin: [Mukundan Gopalachary](https://www.linkedin.com/in/mukundan-gopalachary-997075283/)
