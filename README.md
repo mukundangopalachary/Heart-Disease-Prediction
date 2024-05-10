@@ -12,7 +12,8 @@ Logical regression analyzes the relationship between one or more independent var
 A heart attack (Cardiovascular diseases) occurs when the flow of blood to the heart muscle suddenly becomes blocked. From WHO statistics every year 17.9 million dying from heart attack. The medical study says that human life style is the main reason behind this heart problem. Apart from this there are many key factors which warns that the person may/maynot getting chance of heart attack.
 
 ### Dataset
-[Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression)
+
+You can download the dataset [here](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression).
 
 This dataset contain some medical information of patients which tells whether that person getting a heart attack chance is less or more. Using the information explore the dataset and classify the target variable using Logistic Regression and XGBoost.
 
@@ -26,7 +27,6 @@ In conclusion, the implementation of a logistic regression-based machine learnin
 [XGBoost](https://xgboost.readthedocs.io/en/stable/#xgboost-documentation):developed by Tianqi Chen and Carlos Guestrin, provides an optimized implementation of gradient boosting machines, known for its scalability and performance.
 
 ### Contacts
-If any better changes can be done to the code, pls contact me!
 
 Email: mukundangopalachary@gmail.com
 
